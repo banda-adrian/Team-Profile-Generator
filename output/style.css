@@ -1,0 +1,23 @@
+body {
+    background-color: #7FB3D5;
+}
+
+h1 {
+    color: #ffffff;
+}
+
+.team-heading {
+    background-color: #154360;
+}
+
+.manager {
+    background-color: #F9EBEA;
+}
+
+.intern {
+    background-color: #E8F8F5;
+}
+
+.engineer {
+    background-color: #FBEEE6;
+}
