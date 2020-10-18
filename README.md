@@ -1,1 +1,1 @@
-# Team-Profile-Generator.github.io
+# Team-Profile-Generator
