@@ -30,4 +30,4 @@ If you want to contact me you can reach me at 5205bda@gmail.com
 
 ## Links
 
-[Github Repository](https://github.com/banda-adrian/Team-Profile-Generator.git)
+[Github](https://github.com/banda-adrian)
