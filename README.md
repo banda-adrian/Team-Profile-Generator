@@ -26,8 +26,8 @@ Whenever choosing 'No' a 'team.html' file will be created insde the output folde
 ![screenshot](assets/images/teamHTML.png)
 
 ## Contact
-If you want to contact me you can reach me at 5205bda@gmail.com
+If you want to contact me you can reach me at banda_adrian@outlook.com
 
 ## Links
 
-[Github](https://github.com/banda-adrian)
+[Github Profile](https://github.com/banda-adrian)
